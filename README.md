@@ -43,4 +43,3 @@ Durante este desafio, aprendi e pratiquei:
 * O conceito e a implementação de **Tool Calling (Function Calling)** para permitir que LLMs invoquem rotinas no backend Java.
 * Integração de modelos multimodais (transcrição de áudio e geração de texto).
 * Organização de arquitetura limpa em projetos Java combinando Spring Boot e IA.
-* 
